@@ -1,4 +1,4 @@
-FROM ubuntu:19.04
+FROM ubuntu:22.04
 MAINTAINER Tamas K. Papp <tkpapp@gmail.com>
 
 RUN apt-get update \
